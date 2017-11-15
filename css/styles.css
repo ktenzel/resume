@@ -1,0 +1,30 @@
+body {
+  background-color: #d3e3ff;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.objective {
+  font-style: italic;
+}
+
+.education {
+  margin-left: 3%;
+}
+.work {
+  margin-left: 3%;
+}
+.certificates {
+  margin-left: 3%;
+}
+
+.school {
+  float: left;
+}
+.job {
+  float: left;
+}
+.date {
+  float: right;
+  margin-right: 10%;
+}
